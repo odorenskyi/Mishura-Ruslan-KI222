@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683834237 source:c:\users\vadym nevhodenko\desktop\учоба\mishuraruslanlab8.2bmtp\main.cpp
+	<iostream>
+	<iomanip>
+	"Modules.Mishura.h"
+
+1683834081 c:\users\vadym nevhodenko\desktop\учоба\mishuraruslanlab8.2bmtp\modules.mishura.h
+	<cmath>
+
